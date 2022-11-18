@@ -19,7 +19,7 @@ namespace ProyectoFinal
         private string[,] libreria;
         private string libros;
         private string autor;
-        private int cantidad;
+        private int cantidad = 1;
         //Encapsulamiento de atributos para posterior uso
         public string[,] Libreria { get => libreria; set => libreria = value; }
         public string Autor { get => autor; set => autor = value; }
@@ -28,7 +28,13 @@ namespace ProyectoFinal
         public void Inventario()
         {
             //Llenado de matriz para la libreria
-            Cantidad = Convert.ToInt32(txtCantidad.Text);
+            try
+            {
+                Cantidad = Convert.ToInt32(txtCantidad.Text);
+            } catch
+            {
+                Cantidad = 1;
+            }
             Libreria = new string[Cantidad, 3];
             for (int i = 0; i < Cantidad; i++)
             {

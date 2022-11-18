@@ -20,9 +20,31 @@ namespace ProyectoFinal
         public void btnBuscar_Click(object sender, EventArgs e)
         {
             frmInterfaz_Admin frmDatosAdmin_usuario = new frmInterfaz_Admin();
-            frmDatosAdmin_usuario.Libros=txtLibros.Text;
-            frmDatosAdmin_usuario.Autor=txtAutores.Text;
-            frmDatosAdmin_usuario.Cantidad = Convert.ToInt32(txtCantidad.Text);
+            if (txtLibros.Text == null)
+            {
+                frmDatosAdmin_usuario.Libros="";
+            } else
+            {
+                frmDatosAdmin_usuario.Libros=txtLibros.Text;
+            }
+
+            if (txtAutores.Text == null)
+            {
+                frmDatosAdmin_usuario.Autor = "";
+            } else
+            {
+                frmDatosAdmin_usuario.Autor=txtAutores.Text;
+            }
+
+            if (txtCantidad.Text == null || txtCantidad.Text == "")
+            {
+                frmDatosAdmin_usuario.Cantidad = 0;
+            }
+            else
+            {
+                frmDatosAdmin_usuario.Cantidad = Convert.ToInt32(txtCantidad.Text);
+            }
+
         }
 
         private void btnSalir2_Click(object sender, EventArgs e)
