@@ -1,0 +1,15 @@
+C:\Users\USUARIO\source\repos\ProyectoFinal\ProyectoFinal\bin\Debug\ProyectoFinal.exe.config
+C:\Users\USUARIO\source\repos\ProyectoFinal\ProyectoFinal\bin\Debug\ProyectoFinal.exe
+C:\Users\USUARIO\source\repos\ProyectoFinal\ProyectoFinal\bin\Debug\ProyectoFinal.pdb
+C:\Users\USUARIO\source\repos\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.AssemblyReference.cache
+C:\Users\USUARIO\source\repos\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.SuggestedBindingRedirects.cache
+C:\Users\USUARIO\source\repos\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.frmBienvenida.resources
+C:\Users\USUARIO\source\repos\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.frmAdministrador.resources
+C:\Users\USUARIO\source\repos\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.frmUsuario.resources
+C:\Users\USUARIO\source\repos\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.Properties.Resources.resources
+C:\Users\USUARIO\source\repos\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.GenerateResource.cache
+C:\Users\USUARIO\source\repos\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.exe
+C:\Users\USUARIO\source\repos\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.pdb
+C:\Users\USUARIO\source\repos\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.frmInterfaz_Admin.resources
+C:\Users\USUARIO\source\repos\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.frmInterfaz_Usuario.resources
